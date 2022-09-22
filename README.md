@@ -10,15 +10,19 @@
 Simple App development setup prepared using PHP & MySQL Docker images.
 
 If we choose to test the PHP Apache container we will uncomment only part 1.
+
 ![Part 1 PHP Code](https://github.com/ivantecles/docker-php-mysql-simple-app/blob/main/php/src/img/Part1PHPCode.png?raw=true)
 
 This will be the result for part 1:
+
 ![Part 1 PHP Result](https://github.com/ivantecles/docker-php-mysql-simple-app/blob/main/php/src/img/Part1PHPResult.png?raw=true)
 
-If we choose to test the MySQL server container we will uncomment only part 2. 
+If we choose to test the MySQL server container we will uncomment only part 2.
+
 ![Part 2 MySQL Code](https://github.com/ivantecles/docker-php-mysql-simple-app/blob/main/php/src/img/Part2MySQLCode.png?raw=true)
 
 This will be the result for part 2:
+
 ![Part 2 MySQL Result](https://github.com/ivantecles/docker-php-mysql-simple-app/blob/main/php/src/img/Part2MySQLResult.png?raw=true)
 
 ## Technologies
